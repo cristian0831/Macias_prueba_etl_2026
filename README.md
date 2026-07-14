@@ -6,7 +6,7 @@
 |---|---|
 | Nombre | Cristian Fabian Macias Acevedo |
 | Email | cristianfma3108@gmail.com |
-| Repositorio | https://github.com/cristian0831 |
+| Repositorio | https://github.com/cristian0831/Macias_prueba_etl_2026 |
 
 ## Instalación
 

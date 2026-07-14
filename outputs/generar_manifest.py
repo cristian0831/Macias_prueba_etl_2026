@@ -162,7 +162,7 @@ def generar(db_path: Path, out_path: Path) -> dict:
         "meta": {
             "autor":       "Cristian Fabian Macias Acevedo",
             "email":       "cristianfma3108@gmail.com",
-            "repositorio": "https://github.com/cristian0831",
+            "repositorio": "https://github.com/cristian0831/Macias_prueba_etl_2026",
         },
         "generado_en": datetime.now(timezone.utc).isoformat(),
         "db":          str(db_path),

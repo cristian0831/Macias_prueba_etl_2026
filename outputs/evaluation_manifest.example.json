@@ -2,10 +2,10 @@
   "meta": {
     "autor": "Cristian Fabian Macias Acevedo",
     "email": "cristianfma3108@gmail.com",
-    "repositorio": "https://github.com/cristian0831"
+    "repositorio": "https://github.com/cristian0831/Macias_prueba_etl_2026"
   },
-  "generado_en": "2026-07-14T04:17:24.906095+00:00",
-  "db": "/home/cristianm/Proyecto Registraduria/Proyecto Registraduria Nacional/db/puestos_2026.db",
+  "generado_en": "2026-07-14T05:25:01.222757+00:00",
+  "db": "/sessions/gracious-loving-johnson/mnt/Proyecto Registraduria Nacional/db/puestos_2026.db",
   "resumen": {
     "total_resultados": 8,
     "ok": 8,
