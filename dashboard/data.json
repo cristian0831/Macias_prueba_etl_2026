@@ -1,0 +1,318 @@
+{
+  "votos_ca": {
+    "DUITAMA": {
+      "votant": 52854,
+      "censo": 97678
+    },
+    "PAIPA": {
+      "votant": 18137,
+      "censo": 30521
+    },
+    "SOGAMOSO": {
+      "votant": 56396,
+      "censo": 101449
+    },
+    "TUNJA": {
+      "votant": 81357,
+      "censo": 141698
+    }
+  },
+  "lider_se": {
+    "DUITAMA": {
+      "codpar": "92",
+      "nombre": "Pacto Histórico",
+      "vot": 15423
+    },
+    "PAIPA": {
+      "codpar": "57",
+      "nombre": "Alianza Verde",
+      "vot": 4161
+    },
+    "SOGAMOSO": {
+      "codpar": "92",
+      "nombre": "Pacto Histórico",
+      "vot": 13957
+    },
+    "TUNJA": {
+      "codpar": "92",
+      "nombre": "Pacto Histórico",
+      "vot": 20651
+    }
+  },
+  "arrastre": [
+    {
+      "municipio": "DUITAMA",
+      "votos_SE": 8371,
+      "votos_CA": 6507,
+      "ratio": 1.2865
+    },
+    {
+      "municipio": "PAIPA",
+      "votos_SE": 4161,
+      "votos_CA": 7171,
+      "ratio": 0.5803
+    },
+    {
+      "municipio": "SOGAMOSO",
+      "votos_SE": 8195,
+      "votos_CA": 8086,
+      "ratio": 1.0135
+    },
+    {
+      "municipio": "TUNJA",
+      "votos_SE": 16296,
+      "votos_CA": 15836,
+      "ratio": 1.029
+    }
+  ],
+  "top10_ca": {
+    "DUITAMA": [
+      {
+        "candidato": "Hector David Chaparro Chaparro",
+        "partido": "Partido Conservador Colombiano",
+        "vot": 4559,
+        "pvot": "9,00%"
+      },
+      {
+        "candidato": "Jaime Raul Salamanca Torres",
+        "partido": "Movimiento Autoridades Indígenas De Colombia \"Aico\"",
+        "vot": 2198,
+        "pvot": "4,34%"
+      },
+      {
+        "candidato": "Hernel David Ortega Gomez",
+        "partido": "121",
+        "vot": 1558,
+        "pvot": "3,07%"
+      },
+      {
+        "candidato": "Ramiro Barragan Adame",
+        "partido": "Movimiento Autoridades Indígenas De Colombia \"Aico\"",
+        "vot": 1518,
+        "pvot": "2,99%"
+      },
+      {
+        "candidato": "Yamit Noe Hurtado Neira",
+        "partido": "Movimiento Autoridades Indígenas De Colombia \"Aico\"",
+        "vot": 1316,
+        "pvot": "2,60%"
+      },
+      {
+        "candidato": "Ingrid Marlen Sogamoso Alfonso",
+        "partido": "121",
+        "vot": 1148,
+        "pvot": "2,26%"
+      },
+      {
+        "candidato": "Nancy Yaneth Zapata Pachon",
+        "partido": "120",
+        "vot": 1136,
+        "pvot": "2,24%"
+      },
+      {
+        "candidato": "Jicly Esgardo Mutis Isaza",
+        "partido": "10",
+        "vot": 1064,
+        "pvot": "2,10%"
+      },
+      {
+        "candidato": "Eduar Alexis Triana Rincon",
+        "partido": "10",
+        "vot": 924,
+        "pvot": "1,82%"
+      },
+      {
+        "candidato": "Jose Dario Mahecha Castillo",
+        "partido": "121",
+        "vot": 920,
+        "pvot": "1,81%"
+      }
+    ],
+    "PAIPA": [
+      {
+        "candidato": "Yamit Noe Hurtado Neira",
+        "partido": "Movimiento Autoridades Indígenas De Colombia \"Aico\"",
+        "vot": 4756,
+        "pvot": "27,44%"
+      },
+      {
+        "candidato": "Jaime Raul Salamanca Torres",
+        "partido": "Movimiento Autoridades Indígenas De Colombia \"Aico\"",
+        "vot": 1465,
+        "pvot": "8,45%"
+      },
+      {
+        "candidato": "Hector David Chaparro Chaparro",
+        "partido": "Partido Conservador Colombiano",
+        "vot": 1393,
+        "pvot": "8,03%"
+      },
+      {
+        "candidato": "Eduar Alexis Triana Rincon",
+        "partido": "10",
+        "vot": 869,
+        "pvot": "5,01%"
+      },
+      {
+        "candidato": "Wilder Ivan Suesca Ochoa",
+        "partido": "121",
+        "vot": 729,
+        "pvot": "4,20%"
+      },
+      {
+        "candidato": "Ramiro Barragan Adame",
+        "partido": "Movimiento Autoridades Indígenas De Colombia \"Aico\"",
+        "vot": 353,
+        "pvot": "2,03%"
+      },
+      {
+        "candidato": "Oscar Leonardo Avila Romero",
+        "partido": "Partido Conservador Colombiano",
+        "vot": 273,
+        "pvot": "1,57%"
+      },
+      {
+        "candidato": "Nancy Yaneth Zapata Pachon",
+        "partido": "120",
+        "vot": 268,
+        "pvot": "1,54%"
+      },
+      {
+        "candidato": "Ingrid Marlen Sogamoso Alfonso",
+        "partido": "121",
+        "vot": 195,
+        "pvot": "1,12%"
+      },
+      {
+        "candidato": "Hernel David Ortega Gomez",
+        "partido": "121",
+        "vot": 185,
+        "pvot": "1,06%"
+      }
+    ],
+    "SOGAMOSO": [
+      {
+        "candidato": "Hector David Chaparro Chaparro",
+        "partido": "Partido Conservador Colombiano",
+        "vot": 5568,
+        "pvot": "10,39%"
+      },
+      {
+        "candidato": "Ramiro Barragan Adame",
+        "partido": "Movimiento Autoridades Indígenas De Colombia \"Aico\"",
+        "vot": 2771,
+        "pvot": "5,17%"
+      },
+      {
+        "candidato": "Diana Paola Herrera Nuñez",
+        "partido": "Partido Conservador Colombiano",
+        "vot": 1962,
+        "pvot": "3,66%"
+      },
+      {
+        "candidato": "Jaime Raul Salamanca Torres",
+        "partido": "Movimiento Autoridades Indígenas De Colombia \"Aico\"",
+        "vot": 1757,
+        "pvot": "3,27%"
+      },
+      {
+        "candidato": "Nadia Alexandra Carreño Avella",
+        "partido": "122",
+        "vot": 1736,
+        "pvot": "3,24%"
+      },
+      {
+        "candidato": "Fabian Camilo Rojas Barrera",
+        "partido": "122",
+        "vot": 1380,
+        "pvot": "2,57%"
+      },
+      {
+        "candidato": "Yury Neill Diaz Aranguren",
+        "partido": "120",
+        "vot": 1342,
+        "pvot": "2,50%"
+      },
+      {
+        "candidato": "Jairo Enrique Castiblanco Parra",
+        "partido": "120",
+        "vot": 1319,
+        "pvot": "2,46%"
+      },
+      {
+        "candidato": "Oscar Leonardo Avila Romero",
+        "partido": "Partido Conservador Colombiano",
+        "vot": 1237,
+        "pvot": "2,30%"
+      },
+      {
+        "candidato": "Yamit Noe Hurtado Neira",
+        "partido": "Movimiento Autoridades Indígenas De Colombia \"Aico\"",
+        "vot": 1201,
+        "pvot": "2,24%"
+      }
+    ],
+    "TUNJA": [
+      {
+        "candidato": "Ramiro Barragan Adame",
+        "partido": "Movimiento Autoridades Indígenas De Colombia \"Aico\"",
+        "vot": 4294,
+        "pvot": "5,56%"
+      },
+      {
+        "candidato": "Jaime Raul Salamanca Torres",
+        "partido": "Movimiento Autoridades Indígenas De Colombia \"Aico\"",
+        "vot": 3986,
+        "pvot": "5,16%"
+      },
+      {
+        "candidato": "Yamit Noe Hurtado Neira",
+        "partido": "Movimiento Autoridades Indígenas De Colombia \"Aico\"",
+        "vot": 3933,
+        "pvot": "5,10%"
+      },
+      {
+        "candidato": "Ingrid Marlen Sogamoso Alfonso",
+        "partido": "121",
+        "vot": 2903,
+        "pvot": "3,76%"
+      },
+      {
+        "candidato": "Fabian Camilo Rojas Barrera",
+        "partido": "122",
+        "vot": 2848,
+        "pvot": "3,69%"
+      },
+      {
+        "candidato": "Wilder Ivan Suesca Ochoa",
+        "partido": "121",
+        "vot": 2756,
+        "pvot": "3,57%"
+      },
+      {
+        "candidato": "Hector David Chaparro Chaparro",
+        "partido": "Partido Conservador Colombiano",
+        "vot": 2341,
+        "pvot": "3,03%"
+      },
+      {
+        "candidato": "Jose Dario Mahecha Castillo",
+        "partido": "121",
+        "vot": 2242,
+        "pvot": "2,90%"
+      },
+      {
+        "candidato": "Oscar Leonardo Avila Romero",
+        "partido": "Partido Conservador Colombiano",
+        "vot": 2180,
+        "pvot": "2,82%"
+      },
+      {
+        "candidato": "Jairo Enrique Castiblanco Parra",
+        "partido": "120",
+        "vot": 1911,
+        "pvot": "2,47%"
+      }
+    ]
+  }
+}

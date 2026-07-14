@@ -1,0 +1,513 @@
+{
+  "meta": {
+    "autor": "Cristian Fabian Macias Acevedo",
+    "email": "cristianfma3108@gmail.com",
+    "repositorio": "https://github.com/cristian0831"
+  },
+  "generado_en": "2026-07-14T04:17:24.906095+00:00",
+  "db": "/home/cristianm/Proyecto Registraduria/Proyecto Registraduria Nacional/db/puestos_2026.db",
+  "resumen": {
+    "total_resultados": 8,
+    "ok": 8,
+    "incompletos": 0,
+    "con_error": 0,
+    "total_partidos": 364,
+    "total_candidatos": 5444,
+    "total_historico": 189
+  },
+  "analisis": {
+    "arrastre_verde_ca_se": [
+      {
+        "municipio": "DUITAMA",
+        "votos_SE": "8371",
+        "votos_CA": "6507",
+        "ratio": 1.2865
+      },
+      {
+        "municipio": "PAIPA",
+        "votos_SE": "4161",
+        "votos_CA": "7171",
+        "ratio": 0.5803
+      },
+      {
+        "municipio": "SOGAMOSO",
+        "votos_SE": "8195",
+        "votos_CA": "8086",
+        "ratio": 1.0135
+      },
+      {
+        "municipio": "TUNJA",
+        "votos_SE": "16296",
+        "votos_CA": "15836",
+        "ratio": 1.029
+      }
+    ],
+    "dominancia_extrema": [
+      {
+        "municipio": "TUNJA",
+        "sigla": "CA",
+        "partido": "304",
+        "candidato": "Branis Enrique Avila Ortiz",
+        "votos_cand": "1",
+        "votos_partido": "1",
+        "pct_partido": 100.0
+      },
+      {
+        "municipio": "TUNJA",
+        "sigla": "CA",
+        "partido": "339",
+        "candidato": "Jose Santiago Castañeda Valencia",
+        "votos_cand": "1",
+        "votos_partido": "1",
+        "pct_partido": 100.0
+      },
+      {
+        "municipio": "DUITAMA",
+        "sigla": "SE",
+        "partido": "Frente Por La Vida",
+        "candidato": "Oswaldo Wilfredo Huetio Prieto",
+        "votos_cand": "1",
+        "votos_partido": "1",
+        "pct_partido": 100.0
+      },
+      {
+        "municipio": "DUITAMA",
+        "sigla": "CA",
+        "partido": "Partido Político Oxígeno",
+        "candidato": "Benildo Estupiñan Solis",
+        "votos_cand": "2",
+        "votos_partido": "2",
+        "pct_partido": 100.0
+      },
+      {
+        "municipio": "DUITAMA",
+        "sigla": "CA",
+        "partido": "209",
+        "candidato": "Dina Luz Benitez Balceiro",
+        "votos_cand": "1",
+        "votos_partido": "1",
+        "pct_partido": 100.0
+      },
+      {
+        "municipio": "DUITAMA",
+        "sigla": "CA",
+        "partido": "293",
+        "candidato": "Alexander Bolaños Garcia",
+        "votos_cand": "1",
+        "votos_partido": "1",
+        "pct_partido": 100.0
+      },
+      {
+        "municipio": "PAIPA",
+        "sigla": "CA",
+        "partido": "212",
+        "candidato": "Camilo Rivera Soto",
+        "votos_cand": "1",
+        "votos_partido": "1",
+        "pct_partido": 100.0
+      },
+      {
+        "municipio": "PAIPA",
+        "sigla": "CA",
+        "partido": "235",
+        "candidato": "Jazmin Patricia Garcia Caicedo",
+        "votos_cand": "1",
+        "votos_partido": "1",
+        "pct_partido": 100.0
+      },
+      {
+        "municipio": "PAIPA",
+        "sigla": "CA",
+        "partido": "332",
+        "candidato": "Diana Paola Ramos Medina",
+        "votos_cand": "1",
+        "votos_partido": "1",
+        "pct_partido": 100.0
+      },
+      {
+        "municipio": "SOGAMOSO",
+        "sigla": "SE",
+        "partido": "Partido Alianza Social Independiente \"Asi\"",
+        "candidato": "Ruben Marino Borje",
+        "votos_cand": "1",
+        "votos_partido": "1",
+        "pct_partido": 100.0
+      },
+      {
+        "municipio": "SOGAMOSO",
+        "sigla": "CA",
+        "partido": "188",
+        "candidato": "Carlos Mario Calvo Largo",
+        "votos_cand": "1",
+        "votos_partido": "1",
+        "pct_partido": 100.0
+      },
+      {
+        "municipio": "SOGAMOSO",
+        "sigla": "CA",
+        "partido": "186",
+        "candidato": "Karina Del Carmen Martinez Gonzalez",
+        "votos_cand": "1",
+        "votos_partido": "1",
+        "pct_partido": 100.0
+      },
+      {
+        "municipio": "SOGAMOSO",
+        "sigla": "CA",
+        "partido": "336",
+        "candidato": "Ruben David Salina Cassiani",
+        "votos_cand": "1",
+        "votos_partido": "1",
+        "pct_partido": 100.0
+      },
+      {
+        "municipio": "SOGAMOSO",
+        "sigla": "CA",
+        "partido": "339",
+        "candidato": "Jose Santiago Castañeda Valencia",
+        "votos_cand": "1",
+        "votos_partido": "1",
+        "pct_partido": 100.0
+      },
+      {
+        "municipio": "TUNJA",
+        "sigla": "SE",
+        "partido": "Partido Alianza Social Independiente \"Asi\"",
+        "candidato": "Ruben Marino Borje",
+        "votos_cand": "87",
+        "votos_partido": "99",
+        "pct_partido": 87.9
+      },
+      {
+        "municipio": "DUITAMA",
+        "sigla": "CA",
+        "partido": "230",
+        "candidato": "Diego Armando Sanchez Arboleda",
+        "votos_cand": "20",
+        "votos_partido": "24",
+        "pct_partido": 83.3
+      },
+      {
+        "municipio": "DUITAMA",
+        "sigla": "SE",
+        "partido": "Partido Alianza Social Independiente \"Asi\"",
+        "candidato": "Ruben Marino Borje",
+        "votos_cand": "8",
+        "votos_partido": "10",
+        "pct_partido": 80.0
+      },
+      {
+        "municipio": "DUITAMA",
+        "sigla": "SE",
+        "partido": "285",
+        "candidato": "Richard Humberto Fuelantala Delgado",
+        "votos_cand": "8",
+        "votos_partido": "10",
+        "pct_partido": 80.0
+      },
+      {
+        "municipio": "TUNJA",
+        "sigla": "SE",
+        "partido": "Partido Centro Democrático",
+        "candidato": "Martha Isabel Peralta Epieyu",
+        "votos_cand": "305",
+        "votos_partido": "392",
+        "pct_partido": 77.8
+      },
+      {
+        "municipio": "DUITAMA",
+        "sigla": "SE",
+        "partido": "Partido Centro Democrático",
+        "candidato": "Martha Isabel Peralta Epieyu",
+        "votos_cand": "92",
+        "votos_partido": "121",
+        "pct_partido": 76.0
+      },
+      {
+        "municipio": "DUITAMA",
+        "sigla": "CA",
+        "partido": "309",
+        "candidato": "Jose Roberto Mejia Castro",
+        "votos_cand": "3",
+        "votos_partido": "4",
+        "pct_partido": 75.0
+      },
+      {
+        "municipio": "SOGAMOSO",
+        "sigla": "SE",
+        "partido": "Partido Político Dignidad & Compromiso",
+        "candidato": "Juan Camilo Ostos Romero",
+        "votos_cand": "4150",
+        "votos_partido": "5645",
+        "pct_partido": 73.5
+      },
+      {
+        "municipio": "DUITAMA",
+        "sigla": "CA",
+        "partido": "Partido Conservador Colombiano",
+        "candidato": "Hector David Chaparro Chaparro",
+        "votos_cand": "4559",
+        "votos_partido": "6393",
+        "pct_partido": 71.3
+      },
+      {
+        "municipio": "TUNJA",
+        "sigla": "SE",
+        "partido": "285",
+        "candidato": "Richard Humberto Fuelantala Delgado",
+        "votos_cand": "21",
+        "votos_partido": "30",
+        "pct_partido": 70.0
+      },
+      {
+        "municipio": "DUITAMA",
+        "sigla": "CA",
+        "partido": "250",
+        "candidato": "Jorge Ivan Mina Lasso",
+        "votos_cand": "15",
+        "votos_partido": "22",
+        "pct_partido": 68.2
+      },
+      {
+        "municipio": "PAIPA",
+        "sigla": "CA",
+        "partido": "Partido Conservador Colombiano",
+        "candidato": "Hector David Chaparro Chaparro",
+        "votos_cand": "1393",
+        "votos_partido": "2076",
+        "pct_partido": 67.1
+      },
+      {
+        "municipio": "SOGAMOSO",
+        "sigla": "CA",
+        "partido": "235",
+        "candidato": "Paciano Asprilla Arboleda",
+        "votos_cand": "4",
+        "votos_partido": "6",
+        "pct_partido": 66.7
+      },
+      {
+        "municipio": "PAIPA",
+        "sigla": "CA",
+        "partido": "Movimiento Autoridades Indígenas De Colombia \"Aico\"",
+        "candidato": "Yamit Noe Hurtado Neira",
+        "votos_cand": "4756",
+        "votos_partido": "7171",
+        "pct_partido": 66.3
+      },
+      {
+        "municipio": "SOGAMOSO",
+        "sigla": "SE",
+        "partido": "Partido Centro Democrático",
+        "candidato": "Martha Isabel Peralta Epieyu",
+        "votos_cand": "31",
+        "votos_partido": "48",
+        "pct_partido": 64.6
+      },
+      {
+        "municipio": "TUNJA",
+        "sigla": "CA",
+        "partido": "230",
+        "candidato": "Diego Armando Sanchez Arboleda",
+        "votos_cand": "16",
+        "votos_partido": "25",
+        "pct_partido": 64.0
+      },
+      {
+        "municipio": "TUNJA",
+        "sigla": "SE",
+        "partido": "188",
+        "candidato": "Jose Wilman Tumbo Chepe",
+        "votos_cand": "11",
+        "votos_partido": "18",
+        "pct_partido": 61.1
+      }
+    ],
+    "atribucion_deterministica": [
+      {
+        "candidato": "Hector David Chaparro Chaparro",
+        "municipio": "SOGAMOSO",
+        "partido": "Partido Conservador Colombiano",
+        "atribucion_se": 2890.0
+      },
+      {
+        "candidato": "Eduar Alexis Triana Rincon",
+        "municipio": "TUNJA",
+        "partido": "10",
+        "atribucion_se": 2373.0
+      },
+      {
+        "candidato": "Hector David Chaparro Chaparro",
+        "municipio": "TUNJA",
+        "partido": "Partido Conservador Colombiano",
+        "atribucion_se": 2084.0
+      },
+      {
+        "candidato": "Oscar Leonardo Avila Romero",
+        "municipio": "TUNJA",
+        "partido": "Partido Conservador Colombiano",
+        "atribucion_se": 1940.0
+      },
+      {
+        "candidato": "Hector David Chaparro Chaparro",
+        "municipio": "DUITAMA",
+        "partido": "Partido Conservador Colombiano",
+        "atribucion_se": 1806.0
+      }
+    ]
+  },
+  "resultados": [
+    {
+      "municipio": "DUITAMA",
+      "scope_code": "0700079",
+      "sigla": "CA",
+      "mdhm": "03082106",
+      "scraped_at": "2026-07-14 00:02:31",
+      "mesas": {
+        "ok": true,
+        "metota": 287,
+        "mesesc": 287,
+        "faltantes": 0
+      },
+      "filas": {
+        "partidos": 65,
+        "candidatos": 264,
+        "historico": 24
+      },
+      "estado": "OK"
+    },
+    {
+      "municipio": "DUITAMA",
+      "scope_code": "0700079",
+      "sigla": "SE",
+      "mdhm": "03082106",
+      "scraped_at": "2026-07-14 00:02:30",
+      "mesas": {
+        "ok": true,
+        "metota": 287,
+        "mesesc": 287,
+        "faltantes": 0
+      },
+      "filas": {
+        "partidos": 26,
+        "candidatos": 1097,
+        "historico": 24
+      },
+      "estado": "OK"
+    },
+    {
+      "municipio": "PAIPA",
+      "scope_code": "0700181",
+      "sigla": "CA",
+      "mdhm": "03082056",
+      "scraped_at": "2026-07-14 00:02:33",
+      "mesas": {
+        "ok": true,
+        "metota": 95,
+        "mesesc": 95,
+        "faltantes": 0
+      },
+      "filas": {
+        "partidos": 65,
+        "candidatos": 264,
+        "historico": 18
+      },
+      "estado": "OK"
+    },
+    {
+      "municipio": "PAIPA",
+      "scope_code": "0700181",
+      "sigla": "SE",
+      "mdhm": "03082137",
+      "scraped_at": "2026-07-14 00:02:32",
+      "mesas": {
+        "ok": true,
+        "metota": 95,
+        "mesesc": 95,
+        "faltantes": 0
+      },
+      "filas": {
+        "partidos": 26,
+        "candidatos": 1097,
+        "historico": 19
+      },
+      "estado": "OK"
+    },
+    {
+      "municipio": "SOGAMOSO",
+      "scope_code": "0700277",
+      "sigla": "CA",
+      "mdhm": "03082137",
+      "scraped_at": "2026-07-14 00:02:37",
+      "mesas": {
+        "ok": true,
+        "metota": 301,
+        "mesesc": 301,
+        "faltantes": 0
+      },
+      "filas": {
+        "partidos": 65,
+        "candidatos": 264,
+        "historico": 24
+      },
+      "estado": "OK"
+    },
+    {
+      "municipio": "SOGAMOSO",
+      "scope_code": "0700277",
+      "sigla": "SE",
+      "mdhm": "03082218",
+      "scraped_at": "2026-07-14 00:02:35",
+      "mesas": {
+        "ok": true,
+        "metota": 301,
+        "mesesc": 301,
+        "faltantes": 0
+      },
+      "filas": {
+        "partidos": 26,
+        "candidatos": 1097,
+        "historico": 25
+      },
+      "estado": "OK"
+    },
+    {
+      "municipio": "TUNJA",
+      "scope_code": "0700001",
+      "sigla": "CA",
+      "mdhm": "03082211",
+      "scraped_at": "2026-07-14 00:02:29",
+      "mesas": {
+        "ok": true,
+        "metota": 424,
+        "mesesc": 424,
+        "faltantes": 0
+      },
+      "filas": {
+        "partidos": 65,
+        "candidatos": 264,
+        "historico": 29
+      },
+      "estado": "OK"
+    },
+    {
+      "municipio": "TUNJA",
+      "scope_code": "0700001",
+      "sigla": "SE",
+      "mdhm": "03082207",
+      "scraped_at": "2026-07-14 00:02:28",
+      "mesas": {
+        "ok": true,
+        "metota": 424,
+        "mesesc": 424,
+        "faltantes": 0
+      },
+      "filas": {
+        "partidos": 26,
+        "candidatos": 1097,
+        "historico": 26
+      },
+      "estado": "OK"
+    }
+  ]
+}
